@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>color - 1</key>
+	<string>#000000</string>
+	<key>color - 2</key>
+	<string>#741919</string>
+	<key>color - 3</key>
+	<string>#572915</string>
+	<key>color - 4</key>
+	<string>#753a19</string>
+	<key>color - 5</key>
+	<string>#875c3c</string>
+	<key>color - 6</key>
+	<string>#b46b31</string>
+	<key>color - 7</key>
+	<string>#fdd8c1</string>
+	<key>color - 8</key>
+	<string>#dba289</string>
+	<key>color - 9</key>
+	<string>#fee5d8</string>
+	<key>color - 10</key>
+	<string>#fcd7cb</string>
+	<key>color - 11</key>
+	<string>#fff1e9</string>
+	<key>color - 12</key>
+	<string>#a40800</string>
+	<key>color - 13</key>
+	<string>#db1608</string>
+	<key>color - 14</key>
+	<string>#ee5509</string>
+	<key>color - 15</key>
+	<string>#f19b1a</string>
+	<key>color - 16</key>
+	<string>#f7c217</string>
+	<key>color - 17</key>
+	<string>#f2e751</string>
+	<key>color - 18</key>
+	<string>#cfdc17</string>
+	<key>color - 19</key>
+	<string>#afd245</string>
+	<key>color - 20</key>
+	<string>#509b34</string>
+	<key>color - 21</key>
+	<string>#09620d</string>
+	<key>color - 22</key>
+	<string>#97caca</string>
+	<key>color - 23</key>
+	<string>#78b2d9</string>
+	<key>color - 24</key>
+	<string>#2e5cbf</string>
+	<key>color - 25</key>
+	<string>#0f3290</string>
+	<key>color - 26</key>
+	<string>#1c196d</string>
+	<key>color - 27</key>
+	<string>#35327b</string>
+	<key>color - 28</key>
+	<string>#4741cb</string>
+	<key>color - 29</key>
+	<string>#6417ba</string>
+	<key>color - 30</key>
+	<string>#a848eb</string>
+	<key>color - 31</key>
+	<string>#c16ae7</string>
+	<key>color - 32</key>
+	<string>#b14297</string>
+	<key>color - 33</key>
+	<string>#e05e85</string>
+	<key>color - 34</key>
+	<string>#eb7e9b</string>
+	<key>color - 35</key>
+	<string>#ffc5d1</string>
+	<key>color - 36</key>
+	<string>#ffffff</string>
+	<key>color - 37</key>
+	<string>#f2eee7</string>
+	<key>color - 38</key>
+	<string>#c0c0c0</string>
+	<key>color - 39</key>
+	<string>#808080</string>
+	<key>color - 40</key>
+	<string>#ffdac8</string>
+</dict>
+</plist>
